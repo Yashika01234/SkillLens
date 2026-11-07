@@ -5,13 +5,6 @@
   An NLP-powered resume and job description matching assistant.
 </p>
 
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Learning%20Project-purple?style=flat-square)
-</p>
-
 ---
 
 ## ୨୧ About SkillLens
