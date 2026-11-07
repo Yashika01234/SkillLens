@@ -1,5 +1,5 @@
                                                                # SkillLens
-### ✦ Your Resume. Your Skills. Your Next Opportunity.
+                                                  ### ✦ Your Resume. Your Skills. Your Next Opportunity.
 
 <p align="center">
   An NLP-powered resume and job description matching assistant.
