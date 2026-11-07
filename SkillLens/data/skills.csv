@@ -1,0 +1,32 @@
+skill,aliases,category
+Python,python 3|py,Programming
+C++,cpp|c plus plus,Programming
+Java,,Programming
+JavaScript,js,Programming
+SQL,structured query language,Database
+HTML,html5,Web
+CSS,css3,Web
+React,reactjs|react.js,Web
+Node.js,nodejs|node js,Web
+FastAPI,,Backend
+Flask,,Backend
+Django,,Backend
+REST API,rest apis|restful api|restful apis,Backend
+Git,github|git version control,Tools
+Docker,,DevOps
+AWS,amazon web services,Cloud
+Linux,,Tools
+Machine Learning,ml,AI/ML
+Deep Learning,dl,AI/ML
+NLP,natural language processing,AI/ML
+Scikit-learn,sklearn|scikit learn,AI/ML
+TensorFlow,,AI/ML
+PyTorch,,AI/ML
+Pandas,,Data
+NumPy,numpy,Data
+Data Analysis,data analytics,Data
+Data Visualization,data visualisation,Data
+Excel,microsoft excel,Data
+Power BI,,Data
+Tableau,,Data
+Statistics,,Foundations
